@@ -29,4 +29,5 @@ I'm no longer really interested in programming for SAMP as a whole. The language
 ## Extra Credits:
 - rogercosta93 for his Vice City for SAMP map (https://github.com/rogercosta93/Vice-City-for-SA-MP).
 - Sprenner and myself for spending a couple hours fixing some of the mapping bugs.
+- Emmet_ for some of the custom functions that he made in his South Central RP script.
 - And any other people who contributed to this project (if you would like your credits please create a issue and I'll add them in).
