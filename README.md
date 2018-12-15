@@ -12,7 +12,7 @@ I'm no longer really interested in programming for SAMP as a whole. The language
 - Gravityfalls
 - Duco
 
-## Required Dependecies:
+## Required Dependencies:
 - MySQL r41-4
 - crashdetect
 - streamer
