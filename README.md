@@ -1,5 +1,6 @@
 # Vice City Emergency Responders
-## A SAMP Copchase Gamemode under the GNU GPLv3 license.
+## A SAMP Copchase Gamemode.
+(Licensed under GNU GPLv3)
 
 
 I meant to release this gamemode a while ago but I never got around to it. I discussed open sourcing the project with another one of the devs of this project (who I still have contact with) and he agreed and thought it would be best to do that. I got in contact with another project dev and he agreed to me open sourcing the project.
