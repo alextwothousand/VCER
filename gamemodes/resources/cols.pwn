@@ -1,0 +1,38 @@
+#define COLOR_WHITE		0xFFFFFFFF
+#define COL_WHITE		"{FFFFFF}"
+
+#define COLOR_TOMATO	0xFF6347FF
+#define COL_TOMATO		"{FF6347}"
+
+#define COLOR_LIGHTRED	COLOR_TOMATO
+#define COL_LIGHTRED	COL_TOMATO
+
+#define COLOR_YELLOW	0xFFDD00FF)
+#define COL_YELLOW		"{FFDD00}"
+
+#define COLOR_GREEN		0x00FF00FF
+#define COL_GREEN		"{00FF00}"
+
+#define COLOR_DEFAULT	0xA9C4E4FF
+#define COL_DEFAULT		"{A9C4E4}"
+
+#define COLOR_GREY		0xAFAFAFFF
+#define COL_GREY		"{AFAFAF}"
+
+#define COLOR_BLUE		0x2641FEFF
+#define COL_BLUE		"{2641FE}"
+
+#define COLOR_PURPLE	0xD0AEEBFF
+#define COL_PURPLE		"{D0AEEB}"
+
+#define COLOR_ORANGE	0xFFA500FF
+#define COL_ORANGE		"{FFA500}"
+
+#define COLOR_DONATOR	0xBC681AFF
+#define COL_DONATOR		"{BC681A}"
+
+#define COLOR_SERVER	0xFFFF90FF
+#define COL_SERVER		"{FFFF90}"
+
+#define COLOR_PINK		0xF88EAEFF // Do not change these colors
+#define COL_PINK		"{F88EAE}" // Do not change these colors
